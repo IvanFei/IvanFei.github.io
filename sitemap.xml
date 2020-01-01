@@ -1,0 +1,129 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        <url>
+            <loc>https://ivanfei.github.io/categories/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/categories/documentation/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/tags/hugo/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/2019/08/loveit-preview/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/posts/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/tags/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/tags/theme/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://ivanfei.github.io/about/</loc>
+            
+                <lastmod>2020-01-01T17:45:41+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+</urlset>
