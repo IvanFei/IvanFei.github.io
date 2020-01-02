@@ -30,7 +30,7 @@
 技术宅，算法工程师。
 &lt;br&gt;
 研究方向：计算机视觉；
-细分的话涉及”显著性检测“、”目标检测“、”Image to image translate“等等，享受拓宽知识宽度和加深知识深度的过程。平时喜欢看看paper，码码代码，打打篮球，看看动漫。欢迎大家一起讨论相关技术。
+细分的话涉及”显著性检测“、”目标检测“、“生成对抗网络GAN”、”Image to image translate“等等，享受拓宽知识宽度和加深知识深度的过程。平时喜欢看看paper，码码代码，打打篮球，看看动漫。欢迎大家一起讨论相关技术。
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
 
@@ -38,7 +38,90 @@
 
 &lt;p&gt;&amp;emsp;&amp;emsp; &lt;strong&gt;The most important thing in life will always be the people in this room, right here, right now.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Best Wishes.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&amp;emsp;Best Wishes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ivanfei.github.io/images/content/about/img1.jpg&#34; alt=&#34;imgs&#34; /&gt;&lt;/p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Plan</title>
+                <link>https://ivanfei.github.io/plan/</link>
+                <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+                
+                <guid>https://ivanfei.github.io/plan/</guid>
+                <description>
+
+&lt;h2 id=&#34;plan&#34;&gt;Plan&lt;/h2&gt;
+
+&lt;p&gt;这里将列出一个季度以来需要总结的知识，算是作为一个TODO List。希望能够督促自己较好的完成知识的总结。
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;todo-list&#34;&gt;TODO LIST&lt;/h3&gt;
+
+&lt;h4 id=&#34;2019-7-2020-1&#34;&gt;2019.7 ~ 2020.1&lt;/h4&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Number&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Content&lt;/th&gt;
+&lt;th&gt;Done&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0000&lt;/td&gt;
+&lt;td&gt;显著性检测&lt;/td&gt;
+&lt;td&gt;显著性检测概括&lt;br&gt;显著性检测2019&lt;/td&gt;
+&lt;td&gt;[x]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0001&lt;/td&gt;
+&lt;td&gt;目标检测&lt;/td&gt;
+&lt;td&gt;目标检测One-stage之Anchor based &lt;br&gt; 目标检测One-stage之Anchor free&lt;/td&gt;
+&lt;td&gt;[x]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0010&lt;/td&gt;
+&lt;td&gt;视频描述&lt;/td&gt;
+&lt;td&gt;路线：视频描述MLE -&amp;gt; Policy Gradient -&amp;gt; Adersarial Inference&lt;/td&gt;
+&lt;td&gt;[x]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0011&lt;/td&gt;
+&lt;td&gt;生成对抗网络GAN&lt;/td&gt;
+&lt;td&gt;GAN, cGAN, DCGAN, WGAN, WGAN-PG, LSGAN, seqGAN等&lt;/td&gt;
+&lt;td&gt;[x]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0100&lt;/td&gt;
+&lt;td&gt;Image to Image translate&lt;/td&gt;
+&lt;td&gt;pix2pix, cycleGAN, augCycleGAN, pix2pix-HD, starGAN &lt;br&gt; SinGAN InstaGAN, SimGANa and so on&lt;/td&gt;
+&lt;td&gt;[x]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;0101&lt;/td&gt;
+&lt;td&gt;Python Source Code&lt;/td&gt;
+&lt;td&gt;multiprocessing, pytorch: DataLoader&lt;/td&gt;
+&lt;td&gt;[x]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注：以上是2019年7月份到2020年1月份需要总结的知识，希望能够有好的知识文章产出&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
             </item>
         
