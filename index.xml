@@ -12,9 +12,18 @@
             <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
         
         
-            <lastBuildDate>Wed, 01 Jan 2020 11:04:49 +0800</lastBuildDate>
+            <lastBuildDate>Fri, 20 Mar 2020 11:04:49 +0800</lastBuildDate>
         
         <atom:link href="https://ivanfei.github.io/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Posts</title>
+                <link>https://ivanfei.github.io/posts/</link>
+                <pubDate>Fri, 20 Mar 2020 11:04:49 +0800</pubDate>
+                
+                <guid>https://ivanfei.github.io/posts/</guid>
+                <description></description>
+            </item>
         
             <item>
                 <title>About Me</title>
@@ -24,7 +33,7 @@
                 <guid>https://ivanfei.github.io/about/</guid>
                 <description>
 
-&lt;h3 id=&#34;黄飞飞-fei-fei-huang&#34;&gt;黄飞飞 Fei-Fei Huang&lt;/h3&gt;
+&lt;h3 id=&#34;黄飞飞-fei-fei-huang&#34;&gt;黄飞飞 Fei-Fei Huang·&lt;/h3&gt;
 
 &lt;p&gt;&lt;br&gt;
 技术宅，算法工程师。
@@ -123,15 +132,6 @@
 &lt;p&gt;注：以上是2019年7月份到2020年1月份需要总结的知识，希望能够有好的知识文章产出&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-            </item>
-        
-            <item>
-                <title>Posts</title>
-                <link>https://ivanfei.github.io/posts/</link>
-                <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
-                
-                <guid>https://ivanfei.github.io/posts/</guid>
-                <description></description>
             </item>
         
     </channel>

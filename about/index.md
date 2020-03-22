@@ -1,7 +1,7 @@
 # About Me
 
 
-### 黄飞飞 Fei-Fei Huang
+### 黄飞飞 Fei-Fei Huang·
 <br>
 技术宅，算法工程师。
 <br>
