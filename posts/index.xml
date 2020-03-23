@@ -18,7 +18,7 @@
       <pubDate>Fri, 20 Mar 2020 11:04:49 +0800</pubDate>
       
       <guid>https://ivanfei.github.io/2020/03/neural-network-ensembling/</guid>
-      <description>深度集成 所谓模型集成，顾名思义是将多个模型的整合成一个。它要做的关键点在于 “如何获得不同的模型” 以及 “如何有效的对多个模型输出的结果进行整合</description>
+      <description>所谓模型集成，顾名思义是将多个模型的整合成一个。它要做的关键点在于 “如何获得不同的模型” 以及 “如何有效的对多个模型输出的结果进行整合”。传统</description>
     </item>
     
     <item>

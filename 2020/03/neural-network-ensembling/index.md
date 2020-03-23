@@ -1,7 +1,7 @@
 # Neural Network Ensembling
 
 
-# 深度集成
+
 
 所谓模型集成，顾名思义是将多个模型的整合成一个。它要做的关键点在于 “如何获得不同的模型” 以及 “如何有效的对多个模型输出的结果进行整合”。传统的集成方法有: bagging, boosting, stacking等方法，通过获得输出具有差异性的多个同质模型(bagging, boosting)或者异质模型(stacking)，对多个输出进行整合(取平均值或者投票)以便能够获得更好的得分。其中同质模型是指相同算法或者相同结构的神经网络，异质是指不同算法或者不同结构的神经网络。
 
@@ -21,13 +21,15 @@
 
 
 
-#####& 三种方法的**亮点**
+& 三种方法的**亮点**
 
 **「Snapshot Ensemblies, SSE」**: 训练**一个**深度网络模型，使得训练过程中收敛到**M**个局部极小值进行保存权重，从而实现集成**M**个模型;
 
 **「Fast Geometric Ensembling, FGE」**:  Snapshot Ensembles 收敛到每一个局部极小值需要太多时间，我要优化一下，使得两个局部极小值之间的训练时间不要这么长。
 
 **「Stochastic Weight Averaging, SWA」**:  诶，我为什么要保存这么多模型进行集成，对局部极小值的权重的取平均 从而获得新的单模型可以媲美多个模型的集成，美哉美哉，都不用保存模型了，inference 阶段还节省了1/M的时间。
+
+
 
 
 
@@ -57,7 +59,7 @@ Snapshot Ensembles 的**动机**和**做法**很简单。
 
 
 
-![图1](/Users/huangfeifei/fei/hugo-ivanfei/static/images/content/Optimization Method/Neural Network Ensembling/SSE_fig2.png)
+![图1](/images/content/Optimization Method/Neural Network Ensembling/SSE_fig2.png)
 
 <center>图1: Left -> 标准学习率下 loss 的收敛路径；Right -> 循环学习率下 loss的收敛路径。 </center>
 
@@ -79,7 +81,7 @@ $\alpha_0$: 初始学习率
 
 **学习率曲线** 如图2所示：
 
-![图2](/Users/huangfeifei/fei/hugo-ivanfei/static/images/content/Optimization Method/Neural Network Ensembling/SSE_fig4.png)
+![图2](/images/content/Optimization Method/Neural Network Ensembling/SSE_fig4.png)
 
 <center> 图2: 学习率曲线 </center>
 
@@ -87,7 +89,7 @@ $\alpha_0$: 初始学习率
 
 **& SSE 结果**
 
-![图3](/Users/huangfeifei/fei/hugo-ivanfei/static/images/content/Optimization Method/Neural Network Ensembling/SSE_fig3.png)
+![图3](/images/content/Optimization Method/Neural Network Ensembling/SSE_fig3.png)
 
 <center> 图3: 在Cifar 数据上 两种不同学习率的下降趋势</center>
 
